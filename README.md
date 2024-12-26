@@ -9,7 +9,6 @@ Puede visualizar el funcionamiento de la aplicación a continuación ⬇
 ![Video demostracion](./PT1.gif)
 
 ## Instalación
-
 Clonar repositorio de GitHub
 
 ```bash
